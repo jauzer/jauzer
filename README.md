@@ -1,10 +1,10 @@
 # Eu sou João Villa
-🔭 Fazendo faculdade - Engenharia de Software<br>💻 Atualmente estudando sobre Desenvolvimento Web
+🔭 Mestrando - Engenharia de Software<br>Bacharel - Engenharia de Software<br>💻 Atualmente estudando sobre Desenvolvimento Web
 
 
 
 ### 🌐 Redes Sociais
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jauzerprod) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/workingOn) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/jauzerv) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/jauzer) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_joaovilla_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaoemiliovilla) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/jauzer) 
 <!-- 
 
 # 💻 Habilidades:

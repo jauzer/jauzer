@@ -1,5 +1,5 @@
 # Eu sou João Villa
-🔭 Mestrando - Engenharia de Software<br>Bacharel - Engenharia de Software<br>💻 Atualmente estudando sobre Desenvolvimento Web
+🔭 Mestrando - Engenharia de Software<br>🔭 Bacharel - Engenharia de Software<br>💻 Atualmente estudando sobre Desenvolvimento Web
 
 
 
